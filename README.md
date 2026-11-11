@@ -1,4 +1,4 @@
-# Manojkumar Gurram — Portfolio
+# Manojkumar Gurram - Portfolio
 
 Source for my personal portfolio website. The site introduces my background in security analysis and VAPT, selected projects, and research interests in explainable machine learning for threat detection.
 
